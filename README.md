@@ -4,7 +4,7 @@ This is a simple Todo app buld with React- A Javascript liberary for building us
 
 # Installation
   <br>
-  1. git clone [https://github.com/kandelsatish/React-todo-app.git](https://github.com/kandelsatish/React-todo-app.git)<br>
+  1. git clone https://github.com/kandelsatish/React-todo-app.git<br>
   2.cd todo-app<br>
   3.npm start<br>
 <br><br>
